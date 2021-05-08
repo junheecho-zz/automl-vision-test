@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "expo-camera": "~11.0.2",
+    "@tensorflow/tfjs": "*",
+    "@tensorflow/tfjs-automl": "*",
+    "@tensorflow/tfjs-converter": "3.3.0",
+    "@tensorflow/tfjs-core": "3.3.0",
+    "@tensorflow/tfjs-backend-webgl": "3.3.0"
+  }
+}
